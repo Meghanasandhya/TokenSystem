@@ -1,0 +1,31 @@
+{
+  "user": [
+    {
+      "id": "Vinay",
+      "name": "KenchamVinay",
+      "password": "Vinay@3031",
+      "email": "ken@gmail.com",
+      "gender": "male",
+      "role": "",
+      "isactive": false
+    },
+    {
+      "id": "Aajay",
+      "name": "chari",
+      "password": "Ajay@123",
+      "email": "munagalaajay4@gmail.com",
+      "gender": "male",
+      "role": "",
+      "isactive": false
+    },
+    {
+      "id": "meghana",
+      "name": "meghana",
+      "password": "Meghana@123",
+      "email": "yshashi30@gmail.com",
+      "gender": "female",
+      "role": "",
+      "isactive": true
+    }
+  ]
+}
